@@ -1,5 +1,5 @@
 [versions]
-agp = "8.11.0"
+agp = "8.11.1"
 charty = "1.0.5"
 chartyVersion = "1.0.0-beta01"
 compose = "1.13.0"
